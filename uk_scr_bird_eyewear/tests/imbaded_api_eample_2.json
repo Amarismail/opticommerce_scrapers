@@ -1,0 +1,369 @@
+{
+  "products": [
+    {
+      "id": 8924713615701,
+      "gid": "gid://shopify/Product/8924713615701",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47737201656149,
+          "price": 18500,
+          "name": "Rio Noir Blue",
+          "public_title": null,
+          "sku": "C02-U-M07-C04-002"
+        }
+      ]
+    },
+    {
+      "id": 8924713091413,
+      "gid": "gid://shopify/Product/8924713091413",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47737198084437,
+          "price": 18500,
+          "name": "Athene Azure",
+          "public_title": null,
+          "sku": "C02-U-M07-C10-003"
+        }
+      ]
+    },
+    {
+      "id": 8924712141141,
+      "gid": "gid://shopify/Product/8924712141141",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47737191825749,
+          "price": 18500,
+          "name": "Athene Quartz",
+          "public_title": null,
+          "sku": "C02-U-M07-C05-004"
+        }
+      ]
+    },
+    {
+      "id": 8924703195477,
+      "gid": "gid://shopify/Product/8924703195477",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47737145262421,
+          "price": 18500,
+          "name": "Alba Azure",
+          "public_title": null,
+          "sku": "C02-U-M07-C10-005"
+        }
+      ]
+    },
+    {
+      "id": 8924693496149,
+      "gid": "gid://shopify/Product/8924693496149",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47737092309333,
+          "price": 18500,
+          "name": "Alba Forest",
+          "public_title": null,
+          "sku": "C02-U-M07-C11-005"
+        }
+      ]
+    },
+    {
+      "id": 8924680094037,
+      "gid": "gid://shopify/Product/8924680094037",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47737049481557,
+          "price": 18500,
+          "name": "Alba Quartz",
+          "public_title": null,
+          "sku": "C02-U-M07-C05-005"
+        }
+      ]
+    },
+    {
+      "id": 8924678226261,
+      "gid": "gid://shopify/Product/8924678226261",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47737042305365,
+          "price": 18500,
+          "name": "Alba Plum",
+          "public_title": null,
+          "sku": "C02-U-M07-C25-002"
+        }
+      ]
+    },
+    {
+      "id": 8924658893141,
+      "gid": "gid://shopify/Product/8924658893141",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47736971788629,
+          "price": 18500,
+          "name": "Athene Plum",
+          "public_title": null,
+          "sku": "C02-U-M07-C25-001"
+        }
+      ]
+    },
+    {
+      "id": 8878730379605,
+      "gid": "gid://shopify/Product/8878730379605",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47569000497493,
+          "price": 18500,
+          "name": "Raven Silver",
+          "public_title": null,
+          "sku": "C02-U-M04-C02-006"
+        }
+      ]
+    },
+    {
+      "id": 8878729625941,
+      "gid": "gid://shopify/Product/8878729625941",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47568998007125,
+          "price": 18500,
+          "name": "Raven Gold",
+          "public_title": null,
+          "sku": "C02-U-M04-C01-003"
+        }
+      ]
+    },
+    {
+      "id": 8878728872277,
+      "gid": "gid://shopify/Product/8878728872277",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47568996172117,
+          "price": 18500,
+          "name": "Raven Black",
+          "public_title": null,
+          "sku": "C02-U-M04-C04-001"
+        }
+      ]
+    },
+    {
+      "id": 8878727790933,
+      "gid": "gid://shopify/Product/8878727790933",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47568993124693,
+          "price": 18500,
+          "name": "Jackdaw Silver",
+          "public_title": null,
+          "sku": "C02-U-M04-C02-005"
+        }
+      ]
+    },
+    {
+      "id": 8878726873429,
+      "gid": "gid://shopify/Product/8878726873429",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47568990142805,
+          "price": 18500,
+          "name": "Jackdaw Gold",
+          "public_title": null,
+          "sku": "C02-U-M04-C01-006"
+        }
+      ]
+    },
+    {
+      "id": 8878725857621,
+      "gid": "gid://shopify/Product/8878725857621",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47568984408405,
+          "price": 18500,
+          "name": "Jackdaw Black",
+          "public_title": null,
+          "sku": "C02-U-M04-C04-004"
+        }
+      ]
+    },
+    {
+      "id": 8789978513749,
+      "gid": "gid://shopify/Product/8789978513749",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260394946901,
+          "price": 18500,
+          "name": "Tawny Tortoiseshell",
+          "public_title": null,
+          "sku": "C02-U-M07-C13-010"
+        }
+      ]
+    },
+    {
+      "id": 8789977563477,
+      "gid": "gid://shopify/Product/8789977563477",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260392751445,
+          "price": 18500,
+          "name": "Tawny Snowy",
+          "public_title": null,
+          "sku": "C02-U-M07-C05-002"
+        }
+      ]
+    },
+    {
+      "id": 8789976940885,
+      "gid": "gid://shopify/Product/8789976940885",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260391211349,
+          "price": 18500,
+          "name": "Tawny Blue Reef",
+          "public_title": null,
+          "sku": "C02-U-M07-C10-012"
+        }
+      ]
+    },
+    {
+      "id": 8789976580437,
+      "gid": "gid://shopify/Product/8789976580437",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260389081429,
+          "price": 18500,
+          "name": "Tawny Olive",
+          "public_title": null,
+          "sku": "C02-U-M07-C11-009"
+        }
+      ]
+    },
+    {
+      "id": 8789975073109,
+      "gid": "gid://shopify/Product/8789975073109",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260385968469,
+          "price": 18500,
+          "name": "Tawny Honey",
+          "public_title": null,
+          "sku": "C02-U-M07-C07-002"
+        }
+      ]
+    },
+    {
+      "id": 8789973369173,
+      "gid": "gid://shopify/Product/8789973369173",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260382495061,
+          "price": 18500,
+          "name": "Tawny Dusk",
+          "public_title": null,
+          "sku": "C02-U-M07-C03-002"
+        }
+      ]
+    },
+    {
+      "id": 8789972713813,
+      "gid": "gid://shopify/Product/8789972713813",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260380922197,
+          "price": 18500,
+          "name": "Tawny Clear",
+          "public_title": null,
+          "sku": "C02-U-M07-C17-003"
+        }
+      ]
+    },
+    {
+      "id": 8789971927381,
+      "gid": "gid://shopify/Product/8789971927381",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260377645397,
+          "price": 18500,
+          "name": "Tawny Caramel",
+          "public_title": null,
+          "sku": "C02-U-M07-C06-002"
+        }
+      ]
+    },
+    {
+      "id": 8789979267413,
+      "gid": "gid://shopify/Product/8789979267413",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260398354773,
+          "price": 18500,
+          "name": "Suma Blue Reef",
+          "public_title": null,
+          "sku": "C02-U-M07-C10-008"
+        }
+      ]
+    },
+    {
+      "id": 8789968290133,
+      "gid": "gid://shopify/Product/8789968290133",
+      "vendor": "Bird Eyewear",
+      "type": "Glasses",
+      "variants": [
+        {
+          "id": 47260368109909,
+          "price": 18500,
+          "name": "Strix Tortoiseshell",
+          "public_title": null,
+          "sku": "C02-U-M07-C13-007"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "pageType": "collection",
+    "resourceType": "collection",
+    "resourceId": 607889981781
+  }
+}

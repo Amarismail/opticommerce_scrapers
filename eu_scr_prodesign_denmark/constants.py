@@ -1,0 +1,21 @@
+country = 'UK'
+website_name = 'Pro Design'
+website_url = 'https://www.prodesigndenmark.com'
+website_img_base_url = 'https://www.prodesigndenmark.com/media'
+no_prod_img_url_key = '__None__'
+
+
+#Css selectors
+categories_selector = '.navigation-menu:nth-child(2) a'
+prod_link_selector = 'a.product-showcase__placement'
+prod_name_selector = '.slider-caption__shape--name'
+prod_all_specs_selector = '.specs__container, .detail'
+# variant_urls_selector = '.product-list-item'
+variant_urls_selector = '//a[contains(@class, "product-list-item")]/@href'
+# variant_page_img_url_selector = 'li:not([aria-hidden]) > .product-slider__image.splide__image'
+variant_page_img_url_selector = 'li:nth-child(2) > .product-slider__image.splide__image'
+main_variant_colors_selector = 'None'
+main_variant_sizes_selector = '.specs__container:nth-child(5) .specs--value'
+variant_color_selector = '.slider-caption__color--name'
+variant_color_code_selector = '.slider-caption__color--code'
+variant_size_selector = '.specs__container:nth-child(5) .specs--value'

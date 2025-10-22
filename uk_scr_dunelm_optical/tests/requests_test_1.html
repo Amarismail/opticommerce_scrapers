@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Please Sign in</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto:700,300,300italic' rel='stylesheet' type='text/css'>
+    <link href="/css/styles.css" rel="stylesheet">
+</head>
+
+<body id="login">
+
+    <div class="container">
+
+        <div class="login-header">
+        	<img src="/layout/dunelm-logo-2018.png" alt="Dunelm" />
+        </div>
+        
+
+		<div class="row">
+			<div class="col-md-5">
+				<div class="well">
+					<h2 class="mt0">Sign in</h2>					
+										<form method="post" action="/login">
+						<input type="hidden" name="token" id="hiddenToken" value="fTOZh2fqfUs2fu2jN8HBRsp8Tq8GYaFe" />						<input type="hidden" name="next" value="paul-costelloe-5193" />
+						<fieldset>
+							<div class="form-group">
+								<label for="username">Email address</label>
+								<input type="text" class="form-control" name="username" id="username" placeholder="Email address" required />
+							</div>
+							<div class="form-group">
+								<label for="password">Password</label>
+								<input type="password" class="form-control" name="password" id="password" placeholder="Password" required />
+							</div>                    
+						</fieldset>
+						<input type="submit" name="login" value="Sign in" class="btn btn-brand" />      
+						<span class="pull-right"><a href="/forgotten-password/">Forgot your password?</a></span>            
+					</form>
+				</div>
+			</div>
+			<div class="col-md-7">
+				<div class="alert alert-info">
+					<h2 class="mt0">No password?</h2>
+					<p class="lead">We have changed how customers sign in to our website. If you have an <strong>Account Number</strong> but 
+					don't have a password yet, you can set one up now.</p>
+					<form method="post" action="/setuppassword/" class="mt-">
+						<input type="hidden" name="token" id="hiddenToken" value="fTOZh2fqfUs2fu2jN8HBRsp8Tq8GYaFe" />						<input type="hidden" name="next" value="/login" />
+						<input type="submit" value="Set up password" class="btn btn-brand btn-lg" /> 
+					</form>
+				</div>
+			
+				<hr />
+			
+				<div class="text-muted">
+				<h3>New customer?</h3>
+				<p>If you are an optician, you can apply for a trade account with Dunelm Optical.</p>
+			
+				<p class="small">Dunelm is a supplier to opticians only which means we cannot accept orders from the public directly. 
+				If you're not an optician but have seen a frame that you would like to buy, please <a href="#" class="find-nearest-stockist">click here</a> 
+				and we will be pleased to refer you to your nearest Dunelm stockist.</p>
+				</div>
+			
+				<form method="post" action="/register/">
+					<input type="hidden" name="token" id="hiddenToken" value="fTOZh2fqfUs2fu2jN8HBRsp8Tq8GYaFe" />					<input type="hidden" name="next" value="/login" />
+					<input type="submit" value="Apply for an account" class="btn btn-default btn-sm" /> 
+				</form>
+			</div>
+		</div>
+
+    </div>
+
+</body>
+
+</html>
